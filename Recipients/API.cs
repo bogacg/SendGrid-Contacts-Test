@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 
 namespace Sendgrid.Contacts.Recipients
 {
-    class API
+    public class API
     {
 
         public const String Endpoint = "https://api.sendgrid.com/v3/contactdb/recipients";

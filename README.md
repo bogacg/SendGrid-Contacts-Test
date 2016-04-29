@@ -11,3 +11,7 @@ You may need to read [Docs for Contacts API](https://sendgrid.com/docs/API_Refer
 if you haven't already.
 
 Don't forget to put your API KEY in Program.cs instead of dummy string.
+
+###WARNING
+SendGrid warns developers not to use Contacts API to add email addresses without owners' consent, so I'd like 
+to repeat that as well.
