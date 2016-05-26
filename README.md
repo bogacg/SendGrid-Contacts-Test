@@ -1,5 +1,10 @@
 ﻿# SendGrid Contacts API Test (C#)
 
+##Announcement##
+Now there is a [v3 Beta branch](https://github.com/sendgrid/sendgrid-csharp/tree/v3beta) of official library, which contains implementation for 
+endpoints other than Send Mail. So if you want to try Contacts API, you may do so with that branch. Keep in mind, that beta branch is not for production.
+
+##About This Project##
 [C# Library](https://github.com/sendgrid/sendgrid-csharp) is good for sending transactional emails
 but SendGrid Web API has many more RESTful endpoints than Mail Send.
 
